@@ -1,0 +1,15 @@
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/bin/Debug/net7.0/C#+.Net
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/bin/Debug/net7.0/C#+.Net.deps.json
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/bin/Debug/net7.0/C#+.Net.runtimeconfig.json
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/bin/Debug/net7.0/C#+.Net.dll
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/bin/Debug/net7.0/C#+.Net.pdb
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.csproj.AssemblyReference.cache
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.AssemblyInfoInputs.cache
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.AssemblyInfo.cs
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.csproj.CoreCompileInputs.cache
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.dll
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/refint/C#+.Net.dll
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.pdb
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/C#+.Net.genruntimeconfig.cache
+/Users/Coren/repos/SelfStudyPlayground/SelfStudyPlayground/C#+.Net/obj/Debug/net7.0/ref/C#+.Net.dll
